@@ -7,7 +7,7 @@ setup(
   author = 'barak battac',
   author_email = 'barakbattacn@gmail.com',
   url = 'https://github.com/barakbattach/LinkedList', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/LinkedList/tarball/0.1', # I'll explain this in a second
-  keywords = ['testing', 'logging', 'example'], # arbitrary keywords
+  download_url = 'https://github.com/BarakBat/LinkedList.git', # I'll explain this in a second
+  keywords = ['algorithems', 'python', 'linkedlist'], # arbitrary keywords
   classifiers = [],
 )
